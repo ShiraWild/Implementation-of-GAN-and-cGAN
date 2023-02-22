@@ -70,10 +70,11 @@ The CGAN model is trained in a similar way to the standard GAN, with the generat
 ## Models Comparisons:
 
 **first model - GAN :**
-![image](https://user-images.githubusercontent.com/96613758/220577666-2afe5ce2-6e37-4306-8558-c04e51c266bd.png)
+![image](https://user-images.githubusercontent.com/96613758/220578685-576a9fb4-32ef-4dd3-94bb-ae01f36ae22f.png)
 
 **seccond model - cGAN:**
-![Uploading image.png…]()
+
+![image](https://user-images.githubusercontent.com/96613758/220578703-92d001d5-c63a-412e-b6f2-51f7adee2b6a.png)
 
 between the generator and discriminator in the GAN framework. The generator tries to generate realistic images to fool the discriminator,
 while the discriminator tries to correctly classify the real images and distinguish them from the fake ones.
