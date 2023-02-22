@@ -82,3 +82,4 @@ At the same time, the generator's loss function decreases as it generates more r
 This tradeoff can lead to fluctuations in the loss functions of both networks over the course of training.
 
 
+* the implementation of the cGAN model is based on this paper - https://arxiv.org/pdf/1411.1784.pdf%EF%BC%88CGAN%EF%BC%89
