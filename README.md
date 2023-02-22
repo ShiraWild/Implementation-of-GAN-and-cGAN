@@ -65,7 +65,6 @@ The CGAN model is trained in a similar way to the standard GAN, with the generat
 **Generated images:**
 
 ![image](https://user-images.githubusercontent.com/96613758/220577512-7170c8ef-1913-4461-b8f0-5df6826accf0.png)
-![image](https://user-images.githubusercontent.com/96613758/220577637-a5c2e5bf-4871-4af8-a6de-68dfc180c891.png)
 
 ## Models Comparisons:
 
